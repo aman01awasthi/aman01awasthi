@@ -43,14 +43,6 @@ Daily JavaScript practice — functions, arrays, objects, closures, async/await.
 
 ---
 
-## 📈 GitHub Stats
-
-![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman01awasthi&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman01awasthi&layout=compact&theme=react&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-ebon-kgavdvd9m3.vercel.app)
